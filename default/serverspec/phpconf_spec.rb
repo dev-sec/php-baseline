@@ -127,5 +127,6 @@ describe 'PHP config parameters' do
 
   context php_config('mail.add_x_header') do
     its(:value) { should eq 'Off' }
+  end
 
 end
