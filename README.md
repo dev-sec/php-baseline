@@ -1,38 +1,29 @@
-# Tests for PHP hardening
+DevSec PHP Baseline
+===================
 
-This is currently in development! Please come back later.
-
+This is currently in development! Any feedback or Pull Request is welcome.
 
 ## Standalone Usage
 
-You can target the integration tests to any host were you have ssh access
-
-rake -T gives you a list of suites you can run (well ignore directories which are obviously not suites for now)
+This Compliance Profile requires [InSpec](https://github.com/chef/inspec) for execution:
 
 ```
-± rake -T
-rake serverspec:data_bags  # Run serverspec suite data_bags
-rake serverspec:default    # Run serverspec suite default
+$ git clone https://github.com/dev-sec/php-baseline
+$ inspec exec php-baseline
 ```
 
-run it with:
+You can also execute the profile directly from Github:
 
 ```
-bundle install
-
-# default user and ssh-key
-
-bundle exec rake serverspec:default target_host=<name-or-ip-of-target-server>
-
-# or with user, host, password
-
-ASK_LOGIN_PASSWORD=true bundle exec rake serverspec:default target_host=192.168.1.222 user=stack
+$ inspec exec https://github.com/dev-sec/php-baseline
 ```
 
-add `format=html|json` to get a report.html or report.json document
+## License and Author
 
+* Author:: Dominik Richter <dominik.richter@googlemail.com>
+* Author:: Christoph Hartmann <chris@lollyrock.com>
 
-## License
+* Copyright 2015-2016, The Hardening Framework Team
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

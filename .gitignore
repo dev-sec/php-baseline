@@ -1,5 +1,0 @@
-**/.librarian
-**/.tmp
-**/Puppetfile.lock
-Gemfile.lock
-Berksfile.lock
