@@ -1,0 +1,10 @@
+name: php-baseline
+title: DevSec PHP Baseline
+maintainer: Hardening Framework Team
+copyright: Hardening Framework Team
+copyright_email: hello@hardening.io
+license: Apache 2 license
+summary: Test-suite for best-practice php hardening
+version: 1.0.0
+supports:
+  - os-family: unix

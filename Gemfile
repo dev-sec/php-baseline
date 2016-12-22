@@ -1,8 +1,11 @@
-# encoding: utf-8
-
 source 'https://rubygems.org'
 
 gem 'rake'
-gem 'serverspec', '~> 2.17.0'
-gem 'rubocop',    '~> 0.31'
-gem 'highline', '~> 1.7.0'
+gem 'rack', '1.6.4'
+gem 'inspec', '~> 1'
+gem 'rubocop', '~> 0.44.0'
+gem 'highline', '~> 1.6.0'
+
+group :tools do
+  gem 'github_changelog_generator', '~> 1.12.0'
+end
