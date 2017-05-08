@@ -1,9 +1,24 @@
 # Change Log
 
-## [1.0.0](https://github.com/dev-sec/tests-php-hardening/tree/1.0.0) (2016-12-21)
+## [1.0.1](https://github.com/dev-sec/php-baseline/tree/1.0.1) (2017-05-08)
+[Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.0...1.0.1)
+
 **Merged pull requests:**
 
-- fix typo in license header [\#1](https://github.com/dev-sec/tests-php-hardening/pull/1) ([chris-rock](https://github.com/chris-rock))
+- update metadata [\#4](https://github.com/dev-sec/php-baseline/pull/4) ([chris-rock](https://github.com/chris-rock))
+- restrict ruby testing to version 2.3.3 and update gemfile [\#3](https://github.com/dev-sec/php-baseline/pull/3) ([atomic111](https://github.com/atomic111))
+
+## [1.0.0](https://github.com/dev-sec/php-baseline/tree/1.0.0) (2016-12-22)
+[Full Changelog](https://github.com/dev-sec/php-baseline/compare/0.1.0...1.0.0)
+
+**Merged pull requests:**
+
+- migrate from Serverspec to InSpec [\#2](https://github.com/dev-sec/php-baseline/pull/2) ([chris-rock](https://github.com/chris-rock))
+
+## [0.1.0](https://github.com/dev-sec/php-baseline/tree/0.1.0) (2016-11-09)
+**Merged pull requests:**
+
+- fix typo in license header [\#1](https://github.com/dev-sec/php-baseline/pull/1) ([chris-rock](https://github.com/chris-rock))
 
 
 
