@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/dev-sec/php-baseline/tree/1.0.3) (2020-07-23)
+
+[Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.2...1.0.3)
+
+**Merged pull requests:**
+
+- The release draft references the correct SHA [\#9](https://github.com/dev-sec/php-baseline/pull/9) ([micheelengronne](https://github.com/micheelengronne))
+
 ## [1.0.2](https://github.com/dev-sec/php-baseline/tree/1.0.2) (2020-06-18)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.1...1.0.2)
