@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/dev-sec/php-baseline/tree/1.0.4) (2021-01-26)
+
+[Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.3...1.0.4)
+
+**Merged pull requests:**
+
+- GitHub action [\#10](https://github.com/dev-sec/php-baseline/pull/10) ([rndmh3ro](https://github.com/rndmh3ro))
+
 ## [1.0.3](https://github.com/dev-sec/php-baseline/tree/1.0.3) (2020-07-23)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.2...1.0.3)
