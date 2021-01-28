@@ -1,4 +1,6 @@
 # encoding: utf-8
+# frozen_string_literal: true
+
 #
 # Copyright 2016, Christoph Hartmann
 #
@@ -33,6 +35,7 @@ class PHP < Inspec.resource(1)
   "
 
   def initialize(options = {})
+    super()
     @options = options
   end
 
@@ -49,6 +52,7 @@ class PHP < Inspec.resource(1)
   def extension(extension)
     ext = Class.new do
       def initialize(parent, extension)
+        super
         @parent = parent
         @extension = extension
       end
@@ -56,6 +60,7 @@ class PHP < Inspec.resource(1)
       def loaded?
         cmd = @parent._run("#{@parent._php_executable} --ri '#{@extension}'")
         return true if cmd.exit_status.zero?
+
         false
       end
 
@@ -90,6 +95,7 @@ class PHPConfig < PHP
   "
 
   def initialize(param)
+    super()
     warn '[DEPRECATION] `php_config(param)` is deprecated.  Please use `php.config(param)` instead.'
     @param = param
   end
@@ -118,6 +124,7 @@ class PHPExtension < PHP
   "
 
   def initialize(extension)
+    super
     warn '[DEPRECATION] `php_extension(ext)` is deprecated.  Please use `php.extension(ext)` instead.'
     @extension = extension
   end
