@@ -35,7 +35,7 @@ class PHP < Inspec.resource(1)
   "
 
   def initialize(options = {})
-    super
+    super()
     @options = options
   end
 
@@ -95,7 +95,7 @@ class PHPConfig < PHP
   "
 
   def initialize(param)
-    super
+    super()
     warn '[DEPRECATION] `php_config(param)` is deprecated.  Please use `php.config(param)` instead.'
     @param = param
   end
