@@ -1,11 +1,12 @@
 # Changelog
 
-## [1.0.4](https://github.com/dev-sec/php-baseline/tree/1.0.4) (2021-01-28)
+## [1.0.4](https://github.com/dev-sec/php-baseline/tree/1.0.4) (2021-02-02)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.3...1.0.4)
 
 **Merged pull requests:**
 
+- use version tag for changelog action [\#12](https://github.com/dev-sec/php-baseline/pull/12) ([schurzi](https://github.com/schurzi))
 - Fix lint [\#11](https://github.com/dev-sec/php-baseline/pull/11) ([schurzi](https://github.com/schurzi))
 - GitHub action [\#10](https://github.com/dev-sec/php-baseline/pull/10) ([rndmh3ro](https://github.com/rndmh3ro))
 
@@ -24,6 +25,7 @@
 **Merged pull requests:**
 
 - github actions release [\#8](https://github.com/dev-sec/php-baseline/pull/8) ([micheelengronne](https://github.com/micheelengronne))
+- Update issue templates [\#7](https://github.com/dev-sec/php-baseline/pull/7) ([rndmh3ro](https://github.com/rndmh3ro))
 - use recommended spdx license identifier [\#6](https://github.com/dev-sec/php-baseline/pull/6) ([chris-rock](https://github.com/chris-rock))
 - spell correction in disable\_functions [\#5](https://github.com/dev-sec/php-baseline/pull/5) ([TLoebner](https://github.com/TLoebner))
 
@@ -33,7 +35,6 @@
 
 **Merged pull requests:**
 
-- Update issue templates [\#7](https://github.com/dev-sec/php-baseline/pull/7) ([rndmh3ro](https://github.com/rndmh3ro))
 - update metadata [\#4](https://github.com/dev-sec/php-baseline/pull/4) ([chris-rock](https://github.com/chris-rock))
 - restrict ruby testing to version 2.3.3 and update gemfile [\#3](https://github.com/dev-sec/php-baseline/pull/3) ([atomic111](https://github.com/atomic111))
 
