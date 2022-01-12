@@ -1,11 +1,12 @@
 # Changelog
 
-## [1.0.4](https://github.com/dev-sec/php-baseline/tree/1.0.4) (2021-04-24)
+## [1.0.4](https://github.com/dev-sec/php-baseline/tree/1.0.4) (2022-01-12)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.3...1.0.4)
 
 **Merged pull requests:**
 
+- Minimum requirements [\#16](https://github.com/dev-sec/php-baseline/pull/16) ([micheelengronne](https://github.com/micheelengronne))
 - fix rubocop error for Rakefile [\#14](https://github.com/dev-sec/php-baseline/pull/14) ([schurzi](https://github.com/schurzi))
 - add dependency to chef-config for CI [\#13](https://github.com/dev-sec/php-baseline/pull/13) ([schurzi](https://github.com/schurzi))
 - use version tag for changelog action [\#12](https://github.com/dev-sec/php-baseline/pull/12) ([schurzi](https://github.com/schurzi))
