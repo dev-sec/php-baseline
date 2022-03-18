@@ -1,9 +1,8 @@
-# encoding: utf-8
 # frozen_string_literal: true
 
 #
-# Copyright 2015, Dominik Richter
-# Copyright 2016, Christoph Hartmann
+# Copyright:: 2015, Dominik Richter
+# Copyright:: 2016, Christoph Hartmann
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
