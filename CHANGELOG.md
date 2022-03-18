@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/dev-sec/php-baseline/tree/1.0.5) (2022-03-18)
+
+[Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.4...1.0.5)
+
+**Merged pull requests:**
+
+- Change linting to Cookstyle [\#17](https://github.com/dev-sec/php-baseline/pull/17) ([schurzi](https://github.com/schurzi))
+
 ## [1.0.4](https://github.com/dev-sec/php-baseline/tree/1.0.4) (2022-01-12)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.3...1.0.4)
