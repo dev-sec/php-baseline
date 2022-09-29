@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.5](https://github.com/dev-sec/php-baseline/tree/1.0.5) (2022-03-18)
+## [1.0.5](https://github.com/dev-sec/php-baseline/tree/1.0.5) (2022-09-29)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.4...1.0.5)
 
