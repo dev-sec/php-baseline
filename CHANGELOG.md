@@ -1,8 +1,12 @@
 # Changelog
 
-## [1.0.5](https://github.com/dev-sec/php-baseline/tree/1.0.5) (2022-09-29)
+## [1.0.5](https://github.com/dev-sec/php-baseline/tree/1.0.5) (2022-12-05)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.4...1.0.5)
+
+**Implemented enhancements:**
+
+- use centralised issue templates and workflows [\#18](https://github.com/dev-sec/php-baseline/pull/18) ([schurzi](https://github.com/schurzi))
 
 **Merged pull requests:**
 
