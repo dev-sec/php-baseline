@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.5](https://github.com/dev-sec/php-baseline/tree/1.0.5) (2022-12-05)
+## [1.0.5](https://github.com/dev-sec/php-baseline/tree/1.0.5) (2023-03-31)
 
 [Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.4...1.0.5)
 
@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Configure Renovate [\#19](https://github.com/dev-sec/php-baseline/pull/19) ([renovate[bot]](https://github.com/apps/renovate))
 - Change linting to Cookstyle [\#17](https://github.com/dev-sec/php-baseline/pull/17) ([schurzi](https://github.com/schurzi))
 
 ## [1.0.4](https://github.com/dev-sec/php-baseline/tree/1.0.4) (2022-01-12)
